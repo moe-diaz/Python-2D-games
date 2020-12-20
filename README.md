@@ -1,2 +1,2 @@
-# Python-2D-games
+# Python-2D-game
 Python personal project creating 2D games
